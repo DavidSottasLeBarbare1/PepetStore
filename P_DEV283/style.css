@@ -1,0 +1,76 @@
+h1 {
+    font-size: 4rem;
+}
+#titrePrincipal{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:fuchsia;
+    font-size: 8rem;
+    z-index: 1;
+    position: absolute;
+    top: 20px;
+    left: calc(50% - 1737px/2);
+}
+button{
+    background-color: rgb(255, 109, 109);
+    height: 40px;
+    width: 160px;
+
+}
+#bibi{
+    width: 100%;
+    height: 1000px;
+}
+#pub{
+    font-size: 4rem;
+}
+#support{
+    font-size: 2rem;
+}
+
+section{
+    background-color: brown;
+}
+
+header{
+    background-color: rgb(255, 0, 100);
+    height: 50px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.en_haut{
+    object-position: center;
+    padding-top: 5px;
+    word-spacing: 500px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+}
+
+.lienStyle{
+    text-decoration: none;
+    color:chartreuse;
+}
+
+footer{
+    background-color: rgb(255, 0, 100);
+    height: 50px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+#btnFooter{
+    text-decoration: none;
+    color:gold;
+}
+
+#chapitresList{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem; 
+}
+#livres{
+    margin-left: calc(20%);
+}
+img{
+    height: 300px;
+    width: 300px;
+}
